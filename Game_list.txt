@@ -1,0 +1,14 @@
+Ordered by completed date
+1. Snake Game 2020.6.30
+2. Sudoku
+
+To be completed:
+2048
+Pong Game
+Chess
+FPS
+Tetris
+Space invader
+Tower defence
+Stickman Golf
+Flappy bird

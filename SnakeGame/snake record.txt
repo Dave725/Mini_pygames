@@ -1,0 +1,5 @@
+Snake Game
+Easy: 20
+Medium: 46
+Hard: 27
+Custom: 15
